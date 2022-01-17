@@ -1,6 +1,6 @@
 let METADATA_DIRECTORY = './metadata/'
 let IMAGES_DIRECTORY = './images/'
-let BUCKET_NAME = 'lilhspi'
+let BUCKET_NAME = 'lilhapi'
 let IMAGE_BASE_URL = 'https://storage.googleapis.com/lilhapi/'
 
 const fs = require('fs')
