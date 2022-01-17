@@ -5,7 +5,7 @@ const IS_REVEALED = true
 const UNREVEALED_METADATA = {
     "name": "Unrevealed Little Horse",
     "description": "???",
-    "image": "http://159.65.232.27:3000/unrevealed/image.gif",
+    "image": "http://159.65.232.27:80/unrevealed/image.gif",
     "attributes": [{ "???": "???" }]
 }
 
