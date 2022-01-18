@@ -1,7 +1,7 @@
 let METADATA_DIRECTORY = './metadata/'
 let IMAGES_DIRECTORY = './images/'
 let BUCKET_NAME = 'lilhapi'
-let IMAGE_BASE_URL = 'https://storage.googleapis.com/lilhapi/'
+let IMAGE_BASE_URL = 'https://storage.googleapis.com/nftlilh/'
 
 const fs = require('fs')
 const crypto = require('crypto')
